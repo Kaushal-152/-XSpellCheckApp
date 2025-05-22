@@ -1,1 +1,1 @@
-# -XSpellCheckApp
+# XSpellCheckApp
